@@ -1,0 +1,15 @@
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\bin\Debug\net7.0\ConceitosCSharp.exe
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\bin\Debug\net7.0\ConceitosCSharp.deps.json
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\bin\Debug\net7.0\ConceitosCSharp.runtimeconfig.json
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\bin\Debug\net7.0\ConceitosCSharp.dll
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\bin\Debug\net7.0\ConceitosCSharp.pdb
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ConceitosCSharp.csproj.AssemblyReference.cache
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ConceitosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ConceitosCSharp.AssemblyInfoInputs.cache
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ConceitosCSharp.AssemblyInfo.cs
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ConceitosCSharp.csproj.CoreCompileInputs.cache
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ConceitosCSharp.dll
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\refint\ConceitosCSharp.dll
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ConceitosCSharp.pdb
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ConceitosCSharp.genruntimeconfig.cache
+C:\Dev\Fundacao-Bradesco\ConceitosCSharp\obj\Debug\net7.0\ref\ConceitosCSharp.dll
